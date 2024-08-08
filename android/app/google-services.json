@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "267030449699",
+    "project_id": "rpsgroup-29fc1",
+    "storage_bucket": "rpsgroup-29fc1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:267030449699:android:97e0dd34598a1dd6136b96",
+        "android_client_info": {
+          "package_name": "com.campuspro.Rps"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVdwH-zPo2xB6LysEOOMK_HXld3XTjB_w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
